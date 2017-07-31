@@ -1,0 +1,22 @@
+{
+  "name": "silentblast-v2",
+  "version": "1.0.0",
+  "description": "Silentblast, in the cloud.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentblast/silentblast-version-2.git"
+  },
+  "keywords": [
+    "silentblast"
+  ],
+  "author": "Tristan Navarrete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silentblast/silentblast-version-2/issues"
+  },
+  "homepage": "https://github.com/silentblast/silentblast-version-2#readme"
+}
