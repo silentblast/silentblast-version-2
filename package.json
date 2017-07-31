@@ -16,7 +16,11 @@
   "author": "Tristan Navarrete",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/silentblast/silentblast-version-2/issues"
+    "url": "https://github.com/silentblast/silentblast-version-2"
   },
-  "homepage": "https://github.com/silentblast/silentblast-version-2#readme"
+  "homepage": "https://github.com/silentblast/silentblast-version-2#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.2"
+  }
 }
